@@ -1,0 +1,40 @@
+
+Educational institution codes
+
+Each code is a four-character alpha code. The first character will indicate one geographic location as follows:
+
+A- British Columbia
+B- Alberta
+C- Saskatchewan
+D- Manitoba
+E- Ontario
+F- Quebec
+G- New Brunswick
+H- Nova Scotia
+I- Prince Edward Island
+J- Newfoundland and Labrador
+K- Northwest Territories
+L- Yukon
+M- U.S.A.
+N- Central America
+O- South America
+P- United Kingdom
+Q- Rest of Europe
+R- Middle East
+S- Africa
+T- India/Southeast Asia
+U- Far East
+V- Australia/New Zealand
+W- Nunavut
+Z- The Rest of the World
+
+The second character indicates the type of educational institution:
+
+    U,X- University (X added to accommodate American universities) including all technical degree granting institutions.
+    J,H- Junior college (community colleges, CEGEP) Includes those institutions offering the first two years of a degree program.
+    N,M- Nursing schools
+    T,R- Teacher training
+    V- Technical and Vocational (including Colleges of Applied Arts and Technologies and all schools whose highest diploma/certificate is vocational or technical. Not including technical degree-granting institutions.
+    P,Q,S- Private institution (includes commercial institutions, not-for-profit secular, and not-for-profit religious institutions).
+
+The last two characters will uniquely identify the institution (676 possibilities) within its type and geographic location.
